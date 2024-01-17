@@ -19,6 +19,6 @@ const styles = StyleSheet.create({
   },
 });
 
-// ToDoList.defaultProps = {
-//   initTasks: [],
-// };
+ToDoList.defaultProps = {
+  initTasks: [],
+};
